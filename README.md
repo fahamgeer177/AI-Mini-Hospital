@@ -90,7 +90,7 @@ Create an **affordable, AI-powered mini-hospital system** accessible via smartph
 1. **Clone/Download the Project**
 ```bash
 git clone https://github.com/fahamgeer177/AI-Mini-Hospital.git
-cd Virtual-Hospital
+cd AI-Mini-Hospital
 ```
 
 2. **Set up Python Virtual Environment**

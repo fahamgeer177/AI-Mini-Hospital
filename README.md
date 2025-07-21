@@ -148,7 +148,7 @@ Response:
 
 ### Project Organization
 ```
-Virtual-Hospital/
+AI-Mini-Hospital/
 ├── ai_agents/              # Medical specialist agents
 │   ├── __init__.py
 │   ├── base_agent.py       # Base agent class

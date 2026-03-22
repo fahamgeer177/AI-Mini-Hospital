@@ -26,6 +26,8 @@ Millions of people in poor and rural communities worldwide lack access to basic 
 - Rural areas often have 1 doctor per 10,000+ people vs. urban 1:300 ratio
 - Medical emergencies result in preventable deaths due to delayed care
 
+https://github.com/user-attachments/assets/a7cac4b2-57f6-4a60-b359-d264f5fa2795
+
 ## 🎯 Solution & Goals
 
 ### Primary Goal
